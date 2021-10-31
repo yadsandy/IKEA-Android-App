@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45778" started-at="2021-10-31T12:13:22 IST" finished-at="2021-10-31T12:14:07 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45778" started-at="2021-10-31T12:13:22 IST" finished-at="2021-10-31T12:14:07 IST">
+      <class name="com.ikea.application.TestSuite.TC_Cart">
+        <test-method status="PASS" signature="StartDriver()[pri:0, instance:com.ikea.application.TestSuite.TC_Cart@12c8a2c0]" name="StartDriver" is-config="true" duration-ms="15343" started-at="2021-10-31T12:13:22 IST" finished-at="2021-10-31T12:13:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method status="PASS" signature="addAndRemoveItemsFromCart()[pri:0, instance:com.ikea.application.TestSuite.TC_Cart@12c8a2c0]" name="addAndRemoveItemsFromCart" duration-ms="28908" started-at="2021-10-31T12:13:37 IST" finished-at="2021-10-31T12:14:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAndRemoveItemsFromCart -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:com.ikea.application.TestSuite.TC_Cart@12c8a2c0]" name="stopDriver" is-config="true" duration-ms="1495" started-at="2021-10-31T12:14:06 IST" finished-at="2021-10-31T12:14:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- com.ikea.application.TestSuite.TC_Cart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
